@@ -4,7 +4,7 @@
     - Escreva um programa que imprimima numeros de 1 a 10 usando um laço for. 
     - Refatore o código para solicitar um numero máximo para impressão ao usuário.
     - Refatore o código para solicitar ao usuário se deve ser impresso em ordem crescente ou decrescente.
-
+    
 ## Exercício 2 - Tabuada (30 min)
     - Escreva o código para imprimir a tabuada do 2 usando um laço for.
     - Refatore o código para solicitar ao usuário qual tabuada deve ser impressa.
